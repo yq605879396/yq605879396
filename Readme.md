@@ -30,8 +30,5 @@ Now, I am a Computer Science graduate student of New York University.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yq605879396&layout=compact)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yq605879396&repo=CapVis)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yq605879396&repo=Tmoji)
-
 
 
