@@ -1,7 +1,7 @@
 ## Welcome
 Hi, I am **Qi Yin**. 😝
 
-From 2015-2019 I gained my bachelor degree of Computer Science and Technology at BUPT. 
+From 2015-2019 I gained my bachelor degree of Computer Science and Technology at BUPT.   
 Now, I am a Computer Science graduate student of New York University.
 
 ## Languages and Tools
