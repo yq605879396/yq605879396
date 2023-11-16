@@ -19,8 +19,8 @@ Currently, I'm a Software Engineer at TuSimple, specializing in the Map Team. In
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code> 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code> 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"></code> 
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code> 
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg"></code> 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code> 
