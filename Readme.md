@@ -5,7 +5,7 @@ I am a passionate and dedicated software engineer with a solid foundation in Com
 
 I earned my Bachelor's degree at Beijing University of Posts and Telecommunications (BUPT) from 2015 to 2019, followed by a Master's degree in Computer Science at New York University (NYU) from 2019 to 2021.  
 
-Currently, I'm a Software Engineer at TuSimple, specializing in the Map Team. In this role from 2021 to 2023, I've been actively involved in diverse projects, contributing to the development of infrastructure platforms and tools, as well as designing and maintaining intricate data pipelines and high-performance microservices for efficient data storage and querying. 
+Currently, I'm a Software Engineer at TuSimple, Map Team. In this role from 2021 to 2023, I've been actively involved in diverse projects, contributing to the development of infrastructure platforms and tools, as well as designing and maintaining intricate data pipelines and high-performance microservices for efficient data storage and querying. 
 
 ## Languages and Tools
 
